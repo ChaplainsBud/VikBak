@@ -1,0 +1,13 @@
+* {
+
+}
+
+body {
+    color: purple;
+    background-color: lightpink;
+    background-image: url("../img/croissant.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
